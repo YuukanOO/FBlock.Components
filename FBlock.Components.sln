@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FBlock.Components", "FBlock.Components\FBlock.Components.csproj", "{975C6BDB-CB0E-4F92-9C69-9234B67203EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FBlock.Components.UnitTests", "FBlock.Components.UnitTests\FBlock.Components.UnitTests.csproj", "{89052685-737C-45A3-8D2A-E434A3D64FF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{975C6BDB-CB0E-4F92-9C69-9234B67203EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975C6BDB-CB0E-4F92-9C69-9234B67203EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975C6BDB-CB0E-4F92-9C69-9234B67203EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975C6BDB-CB0E-4F92-9C69-9234B67203EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89052685-737C-45A3-8D2A-E434A3D64FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89052685-737C-45A3-8D2A-E434A3D64FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89052685-737C-45A3-8D2A-E434A3D64FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89052685-737C-45A3-8D2A-E434A3D64FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
