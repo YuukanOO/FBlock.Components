@@ -7,11 +7,14 @@
     <authors>Julien Leicher</authors>
     <owners>Julien Leicher</owners>
     <licenseUrl>http://www.gnu.org/licenses/gpl-3.0.txt</licenseUrl>
-    <projectUrl>https://github.com/YuukanOO/FBlock</projectUrl>
+    <projectUrl>https://github.com/YuukanOO/FBlock.Components</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>Basics components for the FBlock library</description>
     <releaseNotes>Initial release</releaseNotes>
     <copyright>Copyright 2015</copyright>
     <tags>fblock flow fbp</tags>
+    <dependencies>
+      <dependency id="FBlock.Core" version="0.1.0" />
+    </dependencies>
   </metadata>
 </package>
